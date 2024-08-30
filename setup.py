@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 REPO_NAME = "Book-Recommendation"
 AUTHOR_USER_NAME = "Tien"
-SRC_REPO = "books_recommender"
+SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
 
 
